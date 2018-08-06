@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-This application requires Node.js and a module packager (npm or yarn).
+This application requires Node.js 8+ and a module packager (npm or yarn).
 
 ### Installing
 
