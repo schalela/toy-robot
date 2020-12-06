@@ -38,7 +38,7 @@
     "clui": "^0.3.6",
     "figlet": "^1.2.0",
     "inquirer": "^6.0.0",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.3"
   },
   "semistandard": {
     "env": [
